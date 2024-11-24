@@ -16,7 +16,7 @@ foram utilizados o ChatGPT, HeyGen , Obsidian, NotebookLLM, e o serviço convert
 - também passei o conteúdo para o NOtebook LLM do google para a criação do podcast Audio
 
 ## 🚀 Resultados
-os resultados podem ser vistos na pasta "material" que pode ser acessada nesse diretório
+os resultados podem ser vistos [nessa pasta do google drive](https://drive.google.com/open?id=18ls2za_CUa0Uc9qDITJEwKV4hzviwaKX&usp=drive_fs).
 
 ## 💭 Reflexão (Opcional)
 foi bem rápido e objetivo todo o processo de criação. Me surpreendi com a velocidade e toda a possibildiade , principalmente na educação
