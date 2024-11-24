@@ -1,8 +1,3 @@
-Projeto:
-
-
-Descrição:
-
 # 7 passos para uma mudança pessoal de Alto Valor Social
 
 ## 📒 Descrição
